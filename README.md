@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Manan</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mananbansal583-git&show_icons=true&locale=en" alt="mananbansal583-git" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mananbansal583-git&show_icons=true&locale=en&layout=compact" alt="mananbansal583-git" /></p>
